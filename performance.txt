@@ -1,0 +1,35 @@
+testing: names1*.txt
+
+Number of requestor threads: 1
+Number of resolver threads: 1
+Thread 18238 serviced 6 files
+Total runtime: 65.457878 seconds
+
+
+Number of requestor threads: 1
+Number of resolver threads: 3
+Thread 18554 serviced 6 files
+Total runtime: 59.881172 seconds
+
+Number of requestor threads: 3
+Number of resolver threads: 1
+Thread 18565 serviced 2 files
+Thread 18566 serviced 2 files
+Thread 18567 serviced 2 files
+Total runtime: 59.447826 seconds
+
+Number of requestor threads: 3
+Number of resolver threads: 3
+Thread 18590 serviced 2 files
+Thread 18591 serviced 2 files
+Thread 18592 serviced 2 files
+Total runtime: 70.698578 seconds
+
+Number of requestor threads: 5
+Number of resolver threads: 5
+Thread 18644 serviced 1 files
+Thread 18645 serviced 1 files
+Thread 18646 serviced 1 files
+Thread 18647 serviced 1 files
+Thread 18643 serviced 2 files
+Total runtime: 68.686142 seconds
